@@ -1,0 +1,52 @@
+* { 
+  margin: 0; 
+  padding: 0; 
+  box-sizing: border-box; 
+} 
+  
+header { 
+  background-color: lightpink; 
+  color: rgb(133, 34, 34); 
+  padding: 16px 24px; 
+} 
+  
+header nav li { 
+  display: inline-block; 
+  margin-right: 12px;
+}
+
+.hero {
+    background-color: lightyellow;
+    background-size: cover;
+    background-position: center;
+    color: maroon;
+    padding: 60px 24px;
+    text-align: center;
+}
+.fitur { 
+  padding: 24px; 
+  text-align: center; 
+} 
+
+.fitur .kartu { 
+  display: inline-block; 
+  width: 200px; 
+  padding: 20px; 
+  margin: 10px; 
+  border: 1px solid #cccccc; 
+  border-radius: 12px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); 
+  background-color: lightyellow;
+  color: maroon;
+}
+
+footer { 
+  background-color: lightpink; 
+  color: maroon; 
+  text-align: center; 
+  padding: 16px; 
+} 
+
+body {
+   background-color: lightblue;
+}
